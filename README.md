@@ -39,11 +39,13 @@ WHEN I decide to finish building my team
 THEN I exit the application, and the HTML is generated
 ```
 
-## Screenshot
+## Screenshot & Video
 
 The following image shows screenshot of the generated HTML’s appearance and functionality:
 
 ![HTML webpage titled “My Team” features key info.](./assets/images/screenshot1.png)
+
+![link to video walkthrough of how ProproGeno works] https://drive.google.com/file/d/145xsJF1G5DdsfShkef2mRyvakfjnY8ZT/view
 
 ## Getting Started
 My application will use [Jest](https://www.npmjs.com/package/jest) for running the unit tests and [Inquirer](https://www.npmjs.com/package/inquirer) for collecting input from the user. The application will be invoked by using the following command:
